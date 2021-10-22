@@ -1,0 +1,11 @@
+body {
+    color: black;
+    background-color: white;
+}
+
+article {
+    width: 600px;
+    margin: 10px auto 0px;
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
